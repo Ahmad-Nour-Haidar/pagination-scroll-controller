@@ -30,12 +30,12 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://gitlab.com/ahmad-nour-haidar/pro-finder.git
+    git clone https://github.com/Ahmad-Nour-Haidar/pagination-scroll-controller.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd pro-finder
+    cd pagination-scroll-controller
     ```
 
 3. **Install dependencies**:
@@ -50,7 +50,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the [PaginationScrollController]. Here’s how you can help:
+We welcome contributions to enhance the `PaginationScrollController`. Here’s how you can help:
 
 1. **Fork the repository**.
 2. **Create a new branch**:
